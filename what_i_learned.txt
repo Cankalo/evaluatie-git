@@ -7,3 +7,11 @@ Wat ik heb geleerd in de afgelopen 3 workshops over Git:
 Wat ik nog wil leren:
 - Hoe ik met rebase kan werken
 - Hoe ik beter met meerdere developers tegelijk kan werken via Git
+
+- Ik weet hoe ik een repository kan clonen
+- Ik begrijp hoe branches werken
+- Ik heb geleerd hoe ik conflicten kan oplossen
+
+Wat ik nog wil leren:
+- Meer over Git rebase
+- Werken met pull requests
