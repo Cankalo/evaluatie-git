@@ -1,0 +1,9 @@
+Wat ik heb geleerd in de afgelopen 3 workshops over Git:
+
+- Hoe ik een repository kan clonen en samenwerken via GitHub
+- Hoe ik branches maak en gebruik
+- Hoe ik merge-conflicten kan oplossen
+
+Wat ik nog wil leren:
+- Hoe ik met rebase kan werken
+- Hoe ik beter met meerdere developers tegelijk kan werken via Git
